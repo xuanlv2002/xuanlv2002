@@ -35,6 +35,11 @@
 - 人机交互创新
 - Golang后端开发
 
+
+## 📈 Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuanlv2002&theme=react-dark)](https://github.com/czasg/github-readme-activity-graph)
+
 ## 📬 联系我
 
 [![Email](https://img.shields.io/badge/邮箱联系-D14836?logo=gmail&logoColor=white)](mailto:2314709037@qq.com)
