@@ -45,6 +45,15 @@
 [![Email](https://img.shields.io/badge/邮箱联系-D14836?logo=gmail&logoColor=white)](mailto:2314709037@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-关注-181717?logo=github&logoColor=white)](https://github.com/xuanlv2002)
 
+
+## 🌟 欢迎来到我的个人博客
+
+[![Visits](https://komarev.com/ghpvc/?username=xuanlv2002&label=博客访问量&color=blue)](https://xuanlv2002.github.io/selfSpace.github.io/)
+
+这是我的个人空间，分享技术思考、项目经验和学习笔记。
+
+### 🔗 [快速链接](https://xuanlv2002.github.io/selfSpace.github.io/)
+
 ---
 
 > "创造的不是工具，而是能与我们共同成长的数字伙伴"  
