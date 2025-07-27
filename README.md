@@ -48,7 +48,7 @@
 
 ## 🌟 欢迎来到我的个人博客
 
-[![Visits](https://komarev.com/ghpvc/?username=xuanlv2002&label=博客访问量&color=blue)](https://xuanlv2002.github.io/selfSpace.github.io/)
+[![Visits](https://komarev.com/ghpvc/?username=xuanlv2002&label=Blog%20Visits&color=blue)](https://xuanlv2002.github.io/selfSpace.github.io/)
 
 这是我的个人空间，分享技术思考、项目经验和学习笔记。
 
