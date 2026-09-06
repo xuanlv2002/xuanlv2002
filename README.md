@@ -22,18 +22,14 @@
 
 ## 🚀 当前项目
 
-**数字生命体计划**  
-> 希望打造一个可以随着时间不断成长,越来越好用的AI生命体
+**EZ系列Agent全栈产品**  
+> 希望打造一个可以让大家用于学习和日常使用的Agent系列
 
 ## 🌱 兴趣领域
 - 大型语言模型应用
 - 人机交互创新
 - Golang后端开发
 
-
-## 📈 Activity Graph:
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuanlv2002&theme=react-dark)](https://github.com/czasg/github-readme-activity-graph)
 
 ## 📬 联系我
 
