@@ -1,55 +1,60 @@
-# 🌟 你好，我是 旋律
+<div align="center">
 
-**后端开发者**
-**vibe coding全栈开发**
+# 旋律 · xuanlv2002
 
-## 🔧 技术栈
+**后端开发者 · vibe coding 全栈**
 
-**编程语言**  
+本地优先的 AI Agent：让模型走进真实电脑，也把决定权留在人手里。
+
+[博客](https://xuanlv2002.github.io/selfSpace.github.io/) · [邮箱](mailto:2314709037@qq.com) · [GitHub](https://github.com/xuanlv2002)
+
+</div>
+
+---
+
+## 正在做
+
+**[ezharness](https://github.com/xuanlv2002/ezharness)** — 一张可持续进化的工作台  
+AI 直接读写文件、操作真实终端与浏览器；每次交付沉淀为快应用，能被下一次对话里的 agent 自己发现和调用。  
+`Go` · `Svelte 5` · `Electron`
+
+**[ezloop](https://github.com/xuanlv2002/ezloop)** — 简单，但不简陋  
+可扩展的 agent loop 引擎：模型与工具的循环、hook / warp 扩展点、fork 分身。  
+`Go`
+
+**[miniMem0](https://github.com/xuanlv2002/miniMem0)** — 可直接嵌入代码的大模型记忆系统  
+`Go`
+
+## 技术栈
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-**AI/ML**  
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?logo=openai&logoColor=white)
-
-**前端框架**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
-
-**工具与框架**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-## 🚀 当前项目
+- **方向**：LLM 应用 · Agent 运行时 · 人机协同
+- **工程**：Linux · Git · 终端与浏览器自动化
 
-**EZ系列Agent全栈产品**  
-> 希望打造一个可以让大家用于学习和日常使用的Agent系列
+## 兴趣
 
-## 🌱 兴趣领域
 - 大型语言模型应用
 - 人机交互创新
-- Golang后端开发
+- 用代码把重复的智能固化成可靠的工具
 
+## 联系
 
-## 📬 联系我
+[![Email](https://img.shields.io/badge/邮箱-D14836?logo=gmail&logoColor=white)](mailto:2314709037@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-xuanlv2002-181717?logo=github&logoColor=white)](https://github.com/xuanlv2002)
 
-[![Email](https://img.shields.io/badge/邮箱联系-D14836?logo=gmail&logoColor=white)](mailto:2314709037@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-关注-181717?logo=github&logoColor=white)](https://github.com/xuanlv2002)
-
-
-## 🌟 欢迎来到我的个人博客
+## 博客
 
 [![Visits](https://komarev.com/ghpvc/?username=xuanlv2002&label=Blog%20Visits&color=blue)](https://xuanlv2002.github.io/selfSpace.github.io/)
 
-这是我的个人空间，分享技术思考、项目经验和学习笔记。
-
-🔗 [快速链接](https://xuanlv2002.github.io/selfSpace.github.io/)
+技术思考、项目经验与学习笔记。
 
 ---
 
-> "创造的不是工具，而是能与我们共同成长的数字伙伴"  
-> 欢迎交流合作，一起探索AI生命的可能性 ✨
-
-*最后更新: 2025年7月24日*
-
----
+> 创造的不是工具，而是能与我们共同成长的数字伙伴。
